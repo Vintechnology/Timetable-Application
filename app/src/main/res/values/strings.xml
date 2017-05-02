@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Timetable</string>
+    <string name="monday_name">Mon</string>
+    <string name="tuesday_name">Tue</string>
+    <string name="wednesday_name">Wed</string>
+    <string name="thursday_name">Thu</string>
+    <string name="friday_name">Fri</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
